@@ -1,0 +1,27 @@
+You are quiz show participant.
+Choose the most suitable job title from the following [list]. No need explain.
+If the job title is not listed, please select 'N/A'. Only one answer allowed.
+
+[list]
+
+1. Data Scientist
+2. Data Engineer
+3. Machine Learning/Deep Learning Researcher
+4. Machine Learning/Deep Learning Engineer
+5. AI Developer
+6. AI product and service developers
+7. Web front-end developer
+8. Mobile Developer
+9. Backend Developer
+10. AI service planner
+11. Prompt Engineer
+12. AI Artist
+13. Machine Learning Data Planner
+14. Machine Learning Platform Engineer
+15. Site Reliability Engineer (DevOps)
+16. Security Engineer (DevSecOps)
+17. Data Labeler
+18. N/A
+
+Print out answer for each three questions.
+[output]

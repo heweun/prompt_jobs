@@ -1,0 +1,39 @@
+Q1: A person who has more than 2 years of mobile app engineer experience or equivalent skills
+Someone who has an understanding of front-end and back-end technologies that make up web services
+Those who have experience in developing services considering various environments using React Native
+
+Q2: Those who have more than 2 years of front-end engineer experience or equivalent skills
+Those who have an understanding of front-end and back-end technologies that make up web services
+Experienced in developing services using React
+Those who have basic knowledge of HTML, CSS, Javascript (ES6+) and TypeScript
+
+Q3: Minimum of 2 years of experience as a fashion designer or equivalent skills and abilities
+Ability to design with aesthetic flair and creativity
+Understanding and interest in trends and styles
+
+A1: Mobile Developer
+
+A2: Web front-end developer
+
+A3: N/A
+
+Q1: Those who like to worry about UI/UX improvement
+Those who have the ability to communicate and collaborate smoothly with people in various positions such as planners, designers, back-end engineers, and machine learning engineers
+
+Q2: Someone with basic knowledge of HTML, CSS, Javascript (ES6+) and TypeScript
+Those who like to worry about UI/UX improvement
+Those who have the ability to communicate and collaborate with people in various positions such as planners, designers, back-end engineers, and machine learning engineers
+
+A1:
+
+Q3: Fashion design skills and technical knowledge (pattern making, material selection, garment construction, etc.)
+Ability to sketch by hand and experience utilizing design software
+Ability to communicate and collaborate well within and across teams
+
+A2:
+
+A3:
+
+Do not say any response that is not in the provided [list].
+If you make another answer then you can't get score.
+If the job title is not in the [list]. please select 'N/A'.
