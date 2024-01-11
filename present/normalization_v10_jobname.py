@@ -27,14 +27,14 @@ def infer_ai(Text):
     Primary = ['Not AI', 'Data scientist', 'Data enginner', 'Machinelearning/Deeplearning researcher', 'Machinelearning/Deeplearning enginner', 'Applied AI Service developer', 'AI serive planner', 'AI artist']
 
     job_dic = {
-        'Not AI' : ['design', 'DSP/NPU/AP/VHDL/Verilog', 'instructor', 'software development', 'SoC','business', 'management', 'data visualization', 'SQL', 'statistical analysis', 'electrical/electronic','machine vision', 'semiconductor'],
-        'Data scientist' : ['algorithms','ML model'],
-        'Data enginner' : [],
-        'Machinelearning/Deeplearning researcher' : ['deep learning/machine learning thesis','deep learning/machine learning research'],
-        'Machinelearning/Deeplearning enginner' : ['deep learning', 'machine learning','object detection','computer vision'],
-        'Applied AI Service developer' : ['OpenAI'],
-        'AI serive planner' : [],
-        'AI artist' : []
+        'Not AI' : ['design', 'DSP/NPU/AP/VHDL/Verilog', 'instructor', 'software development', 'SoC','business', 'management', 'electrical/electronic','machine vision', 'semiconductor'],
+        'Data scientist' : ['answering business questions using analytics','prediction model', 'analysis report','SQL'],
+        'Data enginner' : ['Hadoop','Airflow','distributed system','build data pipelines, aggregation, storage, monitoring'],
+        'Machinelearning/Deeplearning researcher' : ['thesis','research','train prediction models','report describing'],
+        'Machinelearning/Deeplearning enginner' : ['train/deploy prediction models','prediction system running on real data'],
+        'Applied AI Service developer' : ['OpenAI','Responsible for all AI-related development work regardless of researcher or engineer'],
+        'AI serive planner' : ['Service planning using AI'],
+        'AI artist' : ['chat-gpt','generative AI','Midjourney','Stable Diffusion']
     }
     job_plus = "\n".join([f"{job} secondary categories : {detail}" for job, detail in job_dic.items()])
 
