@@ -25,4 +25,6 @@
 1. 프롬프트의 정확도를 높이기 위해 온·오프라인 강의 수강하면서 생성형 AI를 잘 다뤄야 성장할 수 있음을 깨달음.
 2. 새로운 기술은 학습하며 적용하면 된다는 생각을 갖게 됨.  
 
+* gpt4-turbo로 모델 변경 후 아래의 문장 안 넣으면 에러남<br>
+ "Provide your output in json format with the keys: primary and secondary."
 </p>
